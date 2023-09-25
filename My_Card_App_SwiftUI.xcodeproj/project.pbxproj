@@ -19,6 +19,7 @@
 		3B5092A22AC190C1002C406E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B5092A42AC190C2002C406E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B5092A72AC190C2002C406E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3B5092AE2AC1A9DD002C406E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				3B5092A22AC190C1002C406E /* ContentView.swift */,
 				3B5092A42AC190C2002C406E /* Assets.xcassets */,
 				3B5092A62AC190C2002C406E /* Preview Content */,
+				3B5092AE2AC1A9DD002C406E /* README.md */,
 			);
 			path = My_Card_App_SwiftUI;
 			sourceTree = "<group>";
